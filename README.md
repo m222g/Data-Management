@@ -3,17 +3,17 @@
 
 A.  Summarize one real-world written business report that can be created from the DVD Dataset from the “Labs on Demand Assessment Environment and DVD Database” attachment. 
 
-  A1.  Identify the specific fields that will be included in the detailed table and the summary table of the report.
+- A1.  Identify the specific fields that will be included in the detailed table and the summary table of the report.
 
-  A2.  Describe the types of data fields used for the report.
+- A2.  Describe the types of data fields used for the report.
 
-  A3.  Identify at least two specific tables from the given dataset that will provide the data necessary for the detailed table section and the summary table section of the report.
+- A3.  Identify at least two specific tables from the given dataset that will provide the data necessary for the detailed table section and the summary table section of the report.
 
-  A4.  Identify at least one field in the detailed table section that will require a custom transformation with a user-defined function and explain why it should be transformed (e.g., you might translate a field with a value of N to No and Y to Yes).
+- A4.  Identify at least one field in the detailed table section that will require a custom transformation with a user-defined function and explain why it should be transformed (e.g., you might translate a field with a value of N to No and Y to Yes).
 
-  A5.  Explain the different business uses of the detailed table section and the summary table section of the report. 
+- A5.  Explain the different business uses of the detailed table section and the summary table section of the report. 
 
-  A6.  Explain how frequently your report should be refreshed to remain relevant to stakeholders.
+- A6.  Explain how frequently your report should be refreshed to remain relevant to stakeholders.
  
 
 B.  Provide original code for function(s) in text format that perform the transformation(s) you identified in part A4.
